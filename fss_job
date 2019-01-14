@@ -1,0 +1,115 @@
+＊＊＊各職業轉職＊＊＊ 
+
+＊二轉托利歐 
+　Cexp 5 one 後 
+　yath space d n e n ne ne nu ne pass 小徑 ascend 
+　kill 載運車駕駛(driver) 取得阿基特通關証(Pass) 
+　descend n nw n n ne n enter 指揮所 e 
+　ask 女騎士(Knight) about 麗莎　ask 麗莎(Lesa) about 托利歐 
+　knock 白金大門 ne e　search 二號抽屜　取得托利歐騎士証明 
+　再到十字路口 n w w join 
+
+＊三轉皇家托利歐 
+　Cexp 12 one 後 
+　yath ask lesa about 皇家托利歐 
+　ft space d u s eu n n 圖書館藏書處　search book (四個地方都要找) 
+　8c nu n w 找巴蘭榭(Meight balential)後回到 ft search book (重找一次) 取得青銅鑰匙(key) 
+　yath 白金大門內 2w　enter 假山　unlock door　d　search 櫃子 
+　　 取得信　open letter　read paper 
+　白金大門內 ne e open 一號抽屜　push f　join 
+
+＊二轉費摩爾 
+　Cexp 5 one 後 
+　到 kala 集會大廳　 
+　space 2d e 14n 2w nd 3w s open door 2s　turn green　join 
+
+＊三轉紅團騎士 
+　Cexp 12 one 後 
+　有二個方法 
+　1.kala 三樓書房　move 卷宗　push button　 ask 紅騎士(Knight) about 入團　 
+　　得到密碼後去關卡input　然後問"入團",殺完指定的人以後再回來即完成 
+　2.接刀 
+　　kala 3f ask 紅騎士(Knight) about 紅騎士、考驗、拉爾哥 
+　　到養老院 ask 老婦人(Woman) about 拉爾哥、水冠、伊庫、密碼 
+　　找到布拉烏瑪．伊庫　ask 伊庫(Ik) about 拉爾哥、水冠 
+　　放風狼 ask 風狼集團首領(Head) about 水冠 
+　　取得水冠後找伊庫 ask brama about 水冠 
+　　到集會大廳　bow red　ask 拉爾哥‧肯陶里(kentauli) about 入團 
+　　接下拉爾哥五成功力的虎切刀後即成為紅團騎士 
+
+＊二轉光忍者 
+　Cexp 5 one 後 
+　yath　wear 綠十字斑指(Green ring)　ask 艾休利恩(Pronet) about 古森林 
+　進古森林 sw n　enter 小結界　2n 劇情後 2s　enter 小結界 
+　ne 到有泉水的魔法陣　　drink water　　ask 古烈斯特(Oldman) about 光忍者 
+　w 出來 回小結界 7n u join　join 後 quit 再 recall 回來 
+　特技　 可使用 recall 回工會 
+　密技１ 雷極之幻 Ｑ８ pass 5s 光忍者亞特斯(Whtel ninja)身上取得雷極之幻要訣(Book) 
+　密技２ 迴旋展　 list e d 3n 2w u 歷西(White ninja)慢慢打即可習得(需有人幫檔 習得會掉血心) 
+
+＊二轉闇忍者 
+　Cexp 5 one 後 
+　取得血心後到 list e d 3w 2s u　ask 蘇珊(Susan) about 闇忍者 二次 
+　再帶蘇珊到工會 d 2n e n w 2n 
+　密技　隱匿術 需 cexp 30 one 到二轉工會和Juno 
+　　　　再到 both space nw n 3w s 尋找 迴光鏡 
+　　　　再到 yath 十字路口 2s w n look 古畫　找惡作劇精靈回答問題即可習得 
+
+＊光、暗忍者三轉 
+　ft space u w 4n w u n "pull 椅子" u e n　　 向 mob 伯爵(Sir) speak 生命之水 
+　傳送後 n w kill 韓德．契爾(Hand kill) 取得黑金鑰(Key) 
+　e n nw　unlock 黑金之門　u 可見到 大忍術士 幻(Ninja master) 
+　打敗幻之後 即可到三轉工會　(打死幻一次才能進一次) 
+　三轉屬性滿光忍約需 180 one exp　暗忍約 190 one exp 
+
+＊忍者秘密工會 
+　Cexp 50 one 後到一轉工會　2n e s w(光忍) d(暗忍)　 
+
+＊法師系的拜亞解法 
+　越早越好解　　建議有fb-4 和 spell 滿即可 
+　both space d nw n 2nw sw 2w s ask 女服務生(Waitress) about 丁 
+　ask 隱流幻象No.16「丁」古方司馬(Ko-Fan Shiemar) about 成為拜亞 
+　此時請 ava cast 完後 "nod" 即開始任務 kill 惡騎士(Knight) 
+
+＊二轉召喚士／魔獸使 
+　Mexp 10 one 後 
+　both space d nw 3n 2w sw nw 2w s　join 
+　簽喚獸分 PACT 1 and 2 
+　PACT 1 皇召可以十萬 exp 於工會換得或者黃金box開出　 
+　　喚獸為 依卡爾絲(Icarls)　　 優紀(Yuki)　　　惡魔(Deamon) 
+　PACT 2 於Ｑ５依拉主教身上取得　　　　　　　　　　　 
+　　喚獸為 惡夢騎士(Nightmare)　大理兔(Rabbit)　小天使(Anglet) 
+
+　惡魔 helldance 要花 爆發力 衝擊力 精神 約各 200 
+　友好值 83 開始要使用六次才會昇級 
+
+＊三轉皇家召喚士／魔獸使 
+　收集各星球各色能源石及Ｑ８火、水、聖精石各二顆 
+　pass 後 s 2e 交給老頭所要的石頭即可 
+　光忍 w 是depre　 depre e 是 water spirit and conjuror ﹕那兩隻有機會掉water or 聖 
+
+
+＊召喚系的次元迴廊解法 
+　準備 50 one exp 
+　向 mob 伯爵(Sir) speak 生命之水後 2w ask 公主直屬宮女(Girl) about 參見 
+　ask Fatima 拉克西絲(Fatima lachesis) about 測試 
+　kill 異次元化怪物(Monster) 
+　註：在此只能使用喚獸能力 
+　Nightmare 用 soul connor 
+　Satan 用 helldance　 
+　Cupid 用 light_arrow　 
+　Gentleman 用 gamble 賭死 或 weakness 到沒氣 
+
+＊二轉心靈術者 
+　Mexp 10 one 後 
+　kmt 守門犬　open 鐵門　s 2w nw u　join 
+　出 d se e e n　step 鐵門 
+　特技　 可使用 recall 回工會 
+
+＊三轉帕拉 
+　Mexp 50 one 後 
+　recall 回公會 有提示時空的裂縫。 
+　yath 十字路口 2s w n look 古畫 s 2n 會觸動提示，得到通行證 
+　both space d nw n 4w 5s se e 2u n join 
+　入團會要求給兩樣東西　ex..小花瓶(Vase)、黑丸(Pill)、白紙(Paper) etc 
+
